@@ -20,3 +20,11 @@ To classifiy rice type from it's image.
 - Making predictions.
 
 ## Random Batch
+![](/batch.png)
+
+## Predictions
+![](/pred_batch.png)
+
+```
+Implemented by Muhammad Hanan Asghar.
+```
